@@ -1,0 +1,1 @@
+echo "<?php echo 'Hola Mundo les hablo desde elmplaneta Martes'; ?>" > programa.php
